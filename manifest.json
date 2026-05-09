@@ -1,0 +1,10 @@
+{
+	"id": "folder-to-llm-export",
+	"name": "Export to LLM",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Combines all markdown files in a folder into a single file for LLM context.",
+	"author": "Chris Boissonnault",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
