@@ -1,0 +1,5 @@
+/* Custom styles for Export to LLM */
+
+.tree-item-self[data-type="folder"] .menu-item-icon {
+    color: var(--interactive-accent);
+}
